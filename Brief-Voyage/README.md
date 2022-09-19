@@ -72,6 +72,8 @@ VILLE
 * un pays
 
 <br>
+## Dictionnaire de données
+
 | Nom | Type | Désignation |
 | --- | :---: | :---------- |
 | nom\_compagnie | Alphanumérique | nom de la compagnie aérienne |
@@ -96,7 +98,7 @@ VILLE
 | passeport\_passager | Alphanumérique | passeport du passager |
 | price\_reservation | Numérique | prix de la réservation |
 | date\_reservation | Date/heure | date de la réservation |
-<br>
+
 
 # Voici la représentation du MCD
 
