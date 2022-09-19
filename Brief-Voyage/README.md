@@ -112,7 +112,7 @@ Modèle Logique de donnée
 
 Le MLD est la transformation du MCD en un ensemble de tables. Il est la représentation des données  d'un système d'information et est généré à partir du MCD.
 
-[MLD](MLD.png)
+[MLD](MLD.PNG)
 
 Représentation textuelle du MLD
 
