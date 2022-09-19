@@ -100,6 +100,8 @@ VILLE
 
 # Voici la représentation du MCD
 
+Un schéma conceptuel est une description de haut niveau des besoins d'information sous-tendant la conception d'une base de données. Il comprend généralement uniquement les principaux concepts et les principales relations entre eux.
+
 Réaliser sur Looping
 Modèle Conceptuel de donnée
 
