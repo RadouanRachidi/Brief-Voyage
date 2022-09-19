@@ -365,4 +365,3 @@ KEY(Id_country) REFERENCES Country(Id_country)
 );
 ```
 <br>
-\# Diagramme de Classe
