@@ -71,7 +71,6 @@ VILLE
 * un nom
 * un pays
 
-<br>
 ## Dictionnaire de données
 
 | Nom | Type | Désignation |
